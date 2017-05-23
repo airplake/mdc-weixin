@@ -1,31 +1,20 @@
 {
-  "name": "mdc-weixin",
+  "name": "mdc-weixin-customer",
   "version": "1.0.0",
-  "description": "Wechat adapter for MDC.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/airplake/mdc-weixin.git"
-  },
-  "keywords": [
-    "MDC"
-  ],
-  "author": "XadillaX <i@2333.moe>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/airplake/mdc-weixin/issues"
-  },
-  "homepage": "https://github.com/airplake/mdc-weixin#readme",
   "dependencies": {
-    "async": "^2.4.0",
-    "spidex": "^2.2.1",
+    "async": "^2.4.1",
+    "request": "^2.81.0",
     "wechat-template-msg": "^1.0.1"
   },
   "devDependencies": {
-    "mocha": "^3.3.0",
+    "mocha": "^3.4.1",
     "should": "^11.2.1"
+  },
+  "standard": {
+    "ignore": [
+      "test"
+    ]
   }
 }
