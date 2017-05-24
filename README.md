@@ -116,6 +116,7 @@ $ yarn add  mdc-weixin
 
 ### 贡献者 Contributors
 死月 @XadillaX
+
 老魏 @503945930
 
 
