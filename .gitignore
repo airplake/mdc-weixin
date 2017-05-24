@@ -1,2 +1,5 @@
 node_modules
 test/_conf.js
+
+#yarn
+yarn.lock
