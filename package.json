@@ -1,5 +1,5 @@
 {
-  "name": "mdc-weixin-customer",
+  "name": "mdc-weixin",
   "version": "1.0.1",
   "description": "Wechat adapter for MDC.",
   "main": "index.js",
