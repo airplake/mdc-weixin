@@ -113,3 +113,10 @@ $ yarn add  mdc-weixin
 ```
 [模板消息参考](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1443433600&token=&lang=zh_CN)
 
+
+### 贡献者 Contributors
+死月 @XadillaX
+
+老魏 @503945930
+
+
